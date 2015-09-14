@@ -1,0 +1,25 @@
+[
+	{
+		"partner":"api_denlemmailru",
+		"camp":"",
+		"limits":
+		{	
+			"budget":212.3
+		},
+		"targetings":
+		{
+			"device":
+			{
+				"desktop":0,
+				"mobile":1
+			},
+			"geo":
+			[
+				{
+					"key":"ALL",
+					"bid":1
+				}
+			]
+		}
+	},
+]
