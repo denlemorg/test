@@ -6,11 +6,11 @@
 			"budget":212.3
 		},
 		"targetings":{
-			"device":{
+		    "device":{
 				"desktop":0,
 				"mobile":1
 			},
-			"geo":[
+		    "geo":[
 				{
 					"key":"ALL",
 					"bid":1
