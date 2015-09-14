@@ -1,0 +1,57 @@
+[
+    {
+        "partner": "teas_td_1_admin",
+        "camp": "teas_td_1_admin.1",
+        "limits": {
+            "budget": 212.3
+        },
+        "targetings": {
+            "device": {
+                "desktop": 1,
+                "mobile": 1
+            },
+            "geo": [
+                {
+                    "key": "ALL",
+                    "bid": 1
+                },
+                {
+                    "key": "af",
+                    "bid": 1
+                }
+            ]
+        }
+    },
+    {
+        "partner": "teas_td_1_test",
+        "camp": "teas_td_1_test.2",
+        "targetings": {
+            "device": {
+                "desktop": 0,
+                "mobile": 0
+            },
+            "geo": [
+                {
+                    "key": "ALL",
+                    "bid": 1
+                }
+            ]
+        }
+    },
+    {
+        "partner": "teas_td_1_admin",
+        "camp": "teas_td_1_admin.3",
+        "targetings": {
+            "device": {
+                "desktop": 0,
+                "mobile": 1
+            },
+            "geo": [
+                {
+                    "key": "SNG",
+                    "bid": 1
+                }
+            ]
+        }
+    }
+]
