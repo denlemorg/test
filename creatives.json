@@ -5,7 +5,7 @@
         "creative":"0",
         "limits":{"budget":212.3},
         "banners":{
-            "imgSrc":"http:\/\/web-services.test\/bn\/www\/shared\/banner\/"
+            "imgSrc":"http://web-services.test/bn/www/shared/banner/"
         }
     },
     {
@@ -16,7 +16,7 @@
             "budget":212.3
         },
         "banners":{
-            "imgSrc":"http:\/\/web-services.test\/bn\/www\/shared\/banner\/"
+            "imgSrc":"http://web-services.test/bn/www/shared/banner/"
         }
     }
 ]
